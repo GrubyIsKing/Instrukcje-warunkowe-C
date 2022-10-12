@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(10,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(11,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(12,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(13,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(14,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(15,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(16,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\main.cpp(17,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\super\source\repos\instrukcjeWarunkowe\instrukcjeWarunkowe\zad8.h(108,24): warning C4805: "==": niebezpieczne połączenie typu "bool" oraz typu "float" w operacji
+  instrukcjeWarunkowe.vcxproj -> C:\Users\super\source\repos\instrukcjeWarunkowe\x64\Debug\instrukcjeWarunkowe.exe
